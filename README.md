@@ -1,3 +1,4 @@
 # RandomSentencesGeneratorByelisei4ou
 
-[random_sentence_generato_img.pdf](https://github.com/elisei4ou/RandomSentencesGeneratorByelisei4ou/files/12927513/random_sentence_generato_img.pdf)
+
+![Добавяне на заглавие](https://github.com/elisei4ou/RandomSentencesGeneratorByelisei4ou/assets/145572498/769fb6d9-3614-4e2e-bca5-2043f1dfda1d)
